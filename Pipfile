@@ -8,6 +8,8 @@ verify_ssl = true
 [packages]
 django = "*"
 pitz = "*"
+taggit = "*"
+django-taggit = "*"
 
 [requires]
 python_version = "3.6"
